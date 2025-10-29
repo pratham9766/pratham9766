@@ -64,14 +64,14 @@ Git · Docker · VS Code · Jupyter · OpenAI API · Hugging Face
   <a href="https://x.com/PRATHAM976" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://pratham9766.github.io/PrathamPortfolio/" />
+  <a href="https://pratham9766.github.io/PrathamPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham9766&show_icons=true&theme=tokyonight" height="165" />
@@ -87,3 +87,6 @@ Git · Docker · VS Code · Jupyter · OpenAI API · Hugging Face
 ---
 
 <p align="center">⚡ Let's build something extraordinary together ⚡</p>
+
+
+how to add github stats
