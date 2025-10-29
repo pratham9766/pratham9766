@@ -71,11 +71,11 @@ Git · Docker · VS Code · Jupyter · OpenAI API · Hugging Face
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamBokefode&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamBokefode&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham9766&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham9766&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
